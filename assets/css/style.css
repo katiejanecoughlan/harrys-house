@@ -47,6 +47,13 @@ body {
   position: relative;
 }
 
+/* -----Enter button----- */
+#enter-btn {
+  color: #fafafa;
+  background-color: #d04521;
+  border: #d04521;
+}
+
 /* ----Footer----- */
 
 .footer {
