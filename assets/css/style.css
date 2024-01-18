@@ -129,3 +129,23 @@ body {
 
   position: relative;
 }
+
+/* -----Tea page----- */
+
+/* -----Hero image--- */
+#tea {
+  height: 100vh;
+
+  background: url("https://images.pexels.com/photos/5602530/pexels-photo-5602530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat bottom right fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 70%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: relative;
+}
