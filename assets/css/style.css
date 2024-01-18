@@ -30,7 +30,7 @@ body {
 }
 
 /* -----Hero image--- */
-.callout-container-main {
+#home {
   height: 100vh;
 
   background: url("https://stanforddaily.com/wp-content/uploads/2022/05/Blurred-Run-16.jpg") no-repeat bottom right fixed;
@@ -88,4 +88,24 @@ body {
   text-align: center;
   padding-top: 15px;
   padding-bottom: 5px;
+}
+
+/* -----Table page----- */
+
+/* -----Hero image--- */
+#table {
+  height: 100vh;
+
+  background: url("https://images.pexels.com/photos/262882/pexels-photo-262882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat bottom right fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 70%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: relative;
 }
